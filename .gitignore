@@ -1,0 +1,37 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# JavaScript
+node_modules/
+frontend/dist/
+frontend/tsconfig.tsbuildinfo
+dist/
+.vite/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+*.egg-info/
+
+# Local data and generated private assets
+*.db
+*.sqlite
+*.sqlite3
+private-assets/
+uploads/
+backend/instance/private-media/
+backend/migrations/__pycache__/
+
+# Logs and OS files
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "s_no": 1,
+      "image_url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=900&q=85",
+      "digital_product_id": "SR-WALL-001",
+      "digital_product_name": "Quiet Horizon Wallpaper",
+      "product_description": "A calm landscape wallpaper for a slower desktop.",
+      "product_label": "wallpaper"
+    },
+    {
+      "s_no": 2,
+      "image_url": "https://images.unsplash.com/photo-1490312278390-ab64016e0aa9?w=900&q=85",
+      "digital_product_id": "SR-ICON-001",
+      "digital_product_name": "Everyday Objects Icon Pack",
+      "product_description": "A friendly set of icons for everyday screens.",
+      "product_label": "icon"
+    },
+    {
+      "s_no": 3,
+      "image_url": "https://images.unsplash.com/photo-1549490349-8643362247b5?w=900&q=85",
+      "digital_product_id": "SR-ART-001",
+      "digital_product_name": "Soft Forms Illustration Set",
+      "product_description": "A set of abstract digital illustrations in soft color.",
+      "product_label": "art"
+    },
+    {
+      "s_no": 4,
+      "image_url": "https://images.unsplash.com/photo-1455390582262-044c724e5c9a?w=900&q=85",
+      "digital_product_id": "SR-CANVA-001",
+      "digital_product_name": "Field Notes Canva Pack",
+      "product_description": "A flexible Canva design pack for notes and planning.",
+      "product_label": "canva"
+    }
+  ]
+}
